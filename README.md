@@ -10,7 +10,7 @@ https://github.com/KoralK5/Auto/assets/62809012/2b1f068a-b666-45b0-9d4e-7942cb77
 - [Requirements](#requirements)
 - [Installation](#installation)
 
-## Overview
+## Usage
 
 To run the live lane detection on a video,
 
