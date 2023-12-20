@@ -21,15 +21,16 @@ To run the live lane detection on a video,
 
 ## Requirements
 
-List the dependencies and requirements needed to run the project.
+List of dependencies and requirements needed to run the project.
 
-- Python (version X.X)
-- OpenCV (version X.X.X)
+- Python (version 3)
+- OpenCV (version 4)
+- Numpy (version 1)
 
 ## Installation
 
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-project.git
+git clone https://github.com/KoralK5/Auto.git
 ```
