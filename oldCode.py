@@ -177,7 +177,7 @@ def colors(tripleImg, currAngle, textCenter, arrowCenter):
     return tripleImg
 
 while True:
-    test = input('Test Video: ') +'.mp4'
+    test = 'Videos/' + input('Test Video: ')
     cap = cv2.VideoCapture(test)
     _, shp = cap.read()
     currAngle = 90
