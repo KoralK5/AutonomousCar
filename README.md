@@ -1,5 +1,7 @@
 # Auto
-Code that inputs video files and outputs a live representation of where a veichle should go using cv2
+Live lane detection, stabilized steering, and object recognition all in one.
+
+Playlist: https://www.youtube.com/watch?v=I9cR4of2jlo&list=PL4iMkUwfSFa3LzvXLPlDLKk0EshU3x4gV
 
 ## Latest Version
 https://github.com/KoralK5/Auto/assets/62809012/2b1f068a-b666-45b0-9d4e-7942cb7735b6
