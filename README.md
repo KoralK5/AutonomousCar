@@ -1,4 +1,4 @@
-# Auto
+# Autonomous Car
 
 Live lane detection, stabilized steering, and object recognition all in one. ([YouTube Playlist](https://www.youtube.com/watch?v=I9cR4of2jlo&list=PL4iMkUwfSFa3LzvXLPlDLKk0EshU3x4gV))
 
